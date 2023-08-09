@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 some changes in the main branch
-=======
 this is sample text from feature branch
->>>>>>> feature_branch
